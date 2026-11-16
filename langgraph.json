@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "github_agent": "./agent/studio.py:graph"
+  }
+}
